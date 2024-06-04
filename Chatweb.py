@@ -11,7 +11,7 @@ import docx2txt
 
 # Initialize OpenAI client, assuming the API key is set via environment variable or other means
 client = OpenAI(
-    api_key="sk-aurora-hn9sauHQ5RddXlIY7MdwT3BlbkFJUIKnlW6QhKBPF40ZGbe6"
+    api_key="sk-chat-bot-aurora-OcxjnsHsAySunlMT5DsMT3BlbkFJWvXBL7PlwwszOdsdFVOa"
 )
 
 USER_DATA_FILE = "user_data.json"
